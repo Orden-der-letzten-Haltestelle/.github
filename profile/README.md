@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Wir sind eine Gruppe an Informatik-Studenten von der DHBW Stuttgart.
+
+In dieser Organization werden wir unsere Verschiedenen Gruppenprojekte bearbeiten.
+
 <!--
 
 **Here are some ideas to get you started:**
